@@ -3,8 +3,7 @@
   "version": "0.0.1",
   "scripts": {
     "start": "parcel src/index.html",
-    "server": "node server.js",
-    "cypress:open": "cypress open"
+    "server": "node server.js"
   },
   "license": "ISC",
   "devDependencies": {
